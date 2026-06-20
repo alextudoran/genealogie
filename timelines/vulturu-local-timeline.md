@@ -8,13 +8,18 @@ Cronologie pentru evenimente locale relevante pentru cercetarea genealogică.
 
 | Data / interval | Eveniment | Loc / zonă | Sursă | Relevanță |
 |---|---|---|---|---|
-| înainte de nașterea utilizatorului | Gârlița era deja secată, conform amintirilor familiale | Vulturu / zona Gârliței | Sursă orală familială | Context local |
-| necunoscut | Șoseaua Brăila-Focșani funcționa ca zonă de graniță pe o porțiune | Zona Gârliței | Sursă orală familială | Context istoric local |
+| înainte de nașterea cercetătorului | Gârlița era deja secată, conform amintirilor familiale | Vulturu / zona Gârliței | Sursă orală familială | Context local |
+| necunoscut | Șoseaua / drumul Brăila-Focșani funcționa ca zonă de graniță pe o porțiune | Zona Gârliței | Sursă orală familială | Context istoric local |
 | necunoscut | Existența pichetelor de grăniceri | Zona Gârliței | Sursă orală familială | Context istoric local |
+| necunoscut | Repere locale: cotul moldovenesc și cotul muntenesc | Zona Gârliței / fostă graniță | Sursă orală familială | Toponimie / memorie de hotar |
+| necunoscut | Casa lui Mănăilă era foarte aproape de unul dintre coturi, dar nu este clar care | Zona Gârliței | Sursă orală familială | Localizare gospodărie |
 | 1908.10–1908.12 | Dosar VULTURU-căsătorie | Vulturu | [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md) | Document arhivistic |
 
 ## Întrebări deschise
 
 - Când a devenit drumul Brăila-Focșani șosea în forma relevantă pentru familie?
 - Care era poziția exactă a Gârliței?
+- Ce curs de apă era Gârlița sau cu ce curs de apă era legată?
+- Unde erau pichetele de grăniceri?
 - Ce erau cotul moldovenesc și cotul muntenesc?
+- Care cot era mai aproape de casa lui Mănăilă?
