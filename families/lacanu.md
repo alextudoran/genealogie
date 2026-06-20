@@ -34,8 +34,8 @@ T. Lacanu (tată necunoscut complet)
     └── Mănăilă M. Lacanu
         └── Stan Mănăilă Lacanu (n. 1895)
             └── bunicul cercetătorului (n. 1929)
-                └── mama cercetătorului (n. 1963)
-                    └── cercetătorul (n. 1985)
+                └── generația următoare
+                    └── cercetătorul
 ```
 
 Note:
@@ -43,12 +43,15 @@ Note:
 - Legătura Mănăilă → Stan → bunicul cercetătorului este susținută de memorie familială directă, fotografie, gospodărie și relații cunoscute personal.
 - Legătura Mihai St. → Mănăilă este tratată ca foarte puternică în cercetarea familială, dar este utilă confirmarea prin act explicit de filiație dacă apare.
 - `St.` rămâne neextins: Stan / Stancu / Stanciu / alt prenume nu trebuie ales fără document.
+- Nu se publică date despre persoane vii în repo public; generațiile recente se păstrează anonimizate.
 
 ## Gospodărie și geografie familială
 
 Ramura Mihai St. / Mănăilă este asociată cu zona Gârliței din Vulturu. Casa lui Mănăilă era aproape de vechea șosea / drumul Brăila–Focșani, în zona fostei granițe istorice și a pichetelor de grăniceri. Memoria familială indică repere locale precum cotul moldovenesc și cotul muntenesc.
 
 Casa era descrisă în memoria recentă ca o casă modestă, cu două camere și marchiză. Mai mulți copii ai lui Stan și descendenți au rămas în aceeași zonă, la aproximativ zece minute de mers pe jos unii de alții.
+
+În memoria familială, gospodăria de la Gârlița nu este doar o adresă, ci nucleul social al ramurii Mănăilă / Stan. Bunicul cercetătorului, frații lui, frații vitregi și verii apropiați au trăit în același nucleu local.
 
 ## Ipoteze active
 
