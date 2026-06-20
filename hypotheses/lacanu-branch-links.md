@@ -18,9 +18,11 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 - Linia Mihai St. Lacanu → Mănăilă M. Lacanu → Stan Mănăilă Lacanu.
 - Linia Petria St. Lacanu → Marghiola Petria St. Lacanu.
 - Linia Mihalcea Stoica Lăcanu → Mihai Mihalcea Stoica Lăcanu, documentată în Vulturu în 1908.
+- Linia Anghel Lăcanu → Marghiola / Marghioala Anghel Lăcanu, documentată în 1906.
+- Linia Constantin St. Lăcanu → Ioana Lăcanu, documentată în Hângulești în 1910.
 - Mire Lacanul, birnic vechi în Vulturu, 1820.
 - Nicu St. Lăcanu, căsătorit în 1900, fiul lui Stancu / Stanciu Lăcanu și Sanda St. Lăcanu — de verificat exact din original.
-- Alte apariții Lacanu în documente de Vulturu / Smeeni / Hângulești / Gulianca.
+- Alte apariții Lacanu în documente de Vulturu / Smeeni / Hângulești / Gulianca / Măicănești / Maluri.
 
 ## Argumente pro
 
@@ -34,6 +36,8 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 | Mihai Mihalcea Stoica Lăcanu (n. aprox. 1882) se aliniază generațional cu Nastasia Tudor T. Lăcanu (n. aprox. 1885) | Act de căsătorie Vulturu 1908 | Compatibilitate cronologică, nu dovadă de rudenie |
 | Mihalcea Stoica Lăcanu se aliniază probabil cu generația 1850–1865, aceeași fereastră largă în care sunt cercetați Tudor T. Lăcanu și St. Lăcanu | Act de căsătorie Vulturu 1908 + estimări genealogice | Compatibilitate cronologică, nu dovadă de rudenie |
 | Apariții Lăcanu la Gulianca și Hângulești în dosarele Judecătoriei Rurale Măicănești | Cote Brăila 1919–1921 | Relevante pentru cartografiere regională, dar nu conectează direct ramurile Vulturu |
+| Constantin St. Lăcanu apare în Hângulești în 1910, iar Constantin Lăcanu din Hângulești are dosar de constatare deces în 1920 | Act naștere Ioana 1910 + BR-F-00013-2-1920-123 | Posibilă identitate, neconfirmată |
+| Anghel Lăcanu / Marghiola Anghel Lăcanu documentează o ramură veche cu persoane născute aproximativ în prima jumătate a secolului XIX | Act moarte Marghiola Anghel 1906 | Relevant cronologic, dar legătura cu Vulturu rămâne necunoscută |
 
 ## Argumente contra / limite
 
@@ -46,6 +50,8 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 | O gospodărie fiscală din 1820 putea include frați, fii adulți, nepoți sau rude colaterale | Interpretare istorică | Mire poate fi cap de gospodărie, nu neapărat strămoș direct al tuturor ramurilor |
 | Ramura Tudor T. este documentată separat și nu se știe zona exactă a satului în care locuiau urmașii lui Tudor | Memorie / lipsă date | Geografia locală nu conectează încă ramurile |
 | Dosarele Brăila sunt doar descrieri de catalog, nu dosare consultate integral | Portal Arhive Naționale | Nu deducem rude sau aparținători până la consultarea conținutului |
+| Actul Anghel Lăcanu are lectură parțială | Imagine / transcriere incompletă | Formula exactă și relațiile trebuie reverificate |
+| Titlul dosarului MALURI-DECES și textul citit Măicănești trebuie reconciliate | VN-F-00021-3-1906-91 | Posibilă diferență între registru, localitate, domiciliu sau lectura imaginii |
 
 ## Interpretare curentă
 
@@ -54,15 +60,21 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 - Mire Lacanul este cel mai vechi Lăcanu identificat în Vulturu și probabil legat de gospodăria / nucleul din care provin ramurile ulterioare, dar relația exactă nu este demonstrată.
 - Ramura Tudor T. rămâne separată până la găsirea unei legături documentare sau geografice clare.
 - Ramura Mihalcea Stoica Lăcanu este documentată în Vulturu în 1908, dar rămâne separată de ramurile St. și Tudor până la dovezi suplimentare.
+- Linia Constantin St. Lăcanu → Ioana Lăcanu este documentată în Hângulești în 1910 și rămâne separată de linia Mihai St. Lăcanu, în ciuda abrevierii comune `St.`.
 - Aparițiile Tudorache A. Lăcanu, Constantin Lăcanu și Sorica Lăcanu din Gulianca / Hângulești sunt relevante pentru cartografierea numelui Lăcanu în zona apropiată, dar nu sunt conectate genealogic în stadiul curent.
+- Ramura Anghel Lăcanu este documentată separat prin actul de moarte din 1906 și trebuie verificată dintr-o imagine / scan mai clară.
 
 ## Documente relevante
 
+- [VN-F-00021-3-1906-91](../archive-references/vn-f-00021-3-1906-91.md)
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
+- [Act de moarte — Marghiola Anghel Lăcanu, 1906](../documents/civil/marghiola-anghel-lacanu-death-1906-maicanesti.md)
 - [Act de căsătorie — Mihai Mihalcea Stoica Lăcanu și Fotinia Nicu Ene Neculau, Vulturu, 1908](../documents/civil/mihai-mihalcea-stoica-lacanu-marriage-1908-vulturu.md)
+- [Act de naștere — Ioana Lăcanu, Hângulești, 1910](../documents/civil/ioana-lacanu-birth-1910-hingulesti.md)
 - [BR-F-00013-2-1919-241](../archive-references/br-f-00013-2-1919-241.md)
 - [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1920-123.md)
 - [BR-F-00013-2-1921-56](../archive-references/br-f-00013-2-1921-56.md)
+- [Cluster geografic — Hângulești, Gulianca, Măicănești / Maluri](../research/clusters/hingulesti-gulianca-maicanesti.md)
 - [Mire Lacanul](../people/lacanu/mire-lacanul.md)
 - [Mihai St. Lacanu](../people/lacanu/mihai-st-lacanu.md)
 - [Petria St. Lacanu](../people/lacanu/petria-st-lacanu.md)
@@ -76,6 +88,7 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 - Hărți, acte de proprietate sau registre care plasează ramurile în aceeași gospodărie / aceeași vecinătate.
 - Extinderea explicită a abrevierii `St.` într-un document primar.
 - Documente suplimentare care arată dacă `Stoica` funcționează ca prenume, patronim, poreclă sau nume de ramură.
+- Consultarea dosarului BR-F-00013-2-1920-123 pentru aparținătorii lui Constantin Lăcanu.
 
 ## Istoric analiză
 
@@ -83,3 +96,5 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 - 2026-06-20 — adăugate ramura Mihai St. / Mănăilă, Petria St., Mire Lacanul și contextul Gârliței.
 - 2026-06-20 — adăugată ramura Mihalcea Stoica Lăcanu și clarificarea că `Stoica` nu se echivalează cu `St.`.
 - 2026-06-20 — adăugate aparițiile Lăcanu din Gulianca / Hângulești din cotele Brăila 1919–1921.
+- 2026-06-20 — adăugate linia Constantin St. Lăcanu → Ioana Lăcanu și posibila identitate cu Constantin Lăcanu din dosarul Brăila 1920.
+- 2026-06-20 — adăugată ramura Anghel Lăcanu și clusterul Hângulești / Gulianca / Măicănești / Maluri.
