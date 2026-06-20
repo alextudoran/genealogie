@@ -6,6 +6,7 @@
 - [Act de moarte — Margareta Mănăilă M. Lăcanu, Vulturu, 1918](../documents/civil/margareta-manaila-lacanu-death-1918-vulturu.md)
 - [Act de căsătorie — Marghiola Petria St. Lăcanu și Tonu Stan Gh. Manta, Vulturu, 1906](../documents/civil/marghiola-petria-st-lacanu-marriage-1906-vulturu.md)
 - [Act de căsătorie — Nicu St. Lăcanu și Sanda Tudorache Postolache, Vulturu, 1900](../documents/civil/nicu-st-lacanu-marriage-1900-vulturu.md)
+- [Act de căsătorie — Mihai Mihalcea Stoica Lăcanu și Fotinia Nicu Ene Neculau, Vulturu, 1908](../documents/civil/mihai-mihalcea-stoica-lacanu-marriage-1908-vulturu.md)
 
 ## Recensăminte / catagrafii
 
@@ -18,6 +19,9 @@
 ## Dosare de arhivă
 
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
+- [BR-F-00013-2-1919-241](../archive-references/br-f-00013-2-1919-241.md)
+- [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1920-123.md)
+- [BR-F-00013-2-1921-56](../archive-references/br-f-00013-2-1921-56.md)
 
 ## Fotografii și imagini
 
