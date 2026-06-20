@@ -42,8 +42,52 @@ Note:
 
 - Legătura Mănăilă → Stan → bunicul cercetătorului este susținută de memorie familială directă, fotografie, gospodărie și relații cunoscute personal.
 - Legătura Mihai St. → Mănăilă este tratată ca foarte puternică în cercetarea familială, dar este utilă confirmarea prin act explicit de filiație dacă apare.
-- `St.` rămâne neextins: Stan / Stancu / Stanciu / alt prenume nu trebuie ales fără document.
+- `St.` rămâne neextins: Stan / Stancu / Stanciu / Stoica sau alt prenume nu trebuie ales fără document.
 - Nu se publică date despre persoane vii în repo public; generațiile recente se păstrează anonimizate.
+
+## Ramura Mihalcea Stoica Lăcanu — documentată separat
+
+```text
+Mihalcea Stoica Lăcanu
+└── Mihai Mihalcea Stoica Lăcanu (n. aprox. 1882)
+```
+
+Sursă principală:
+
+- [Act de căsătorie — Mihai Mihalcea Stoica Lăcanu și Fotinia Nicu Ene Neculau, Vulturu, 1908](../documents/civil/mihai-mihalcea-stoica-lacanu-marriage-1908-vulturu.md)
+
+Note:
+
+- `Stoica` este păstrat ca element nominal neclasificat.
+- Nu se echivalează `Stoica` cu abrevierea `St.`.
+- Ramura este cronologic compatibilă cu generațiile Tudor T. / St. Lăcanu, dar nu este conectată documentar.
+
+## Ramura Anghel Lăcanu — documentată separat
+
+```text
+Anghel Lăcanu († înainte de 1906) — interpretare de verificat
+└── Marghiola / Marghioala Anghel Lăcanu (~1832–1906)
+    ├── Bordache Anghel (~1864) — relație de verificat
+    └── Monah Anghel (~1873)
+```
+
+Sursă principală:
+
+- [Act de moarte — Marghiola Anghel Lăcanu, 1906](../documents/civil/marghiola-anghel-lacanu-death-1906-maicanesti.md)
+
+Note:
+
+- Interesul principal este apariția numelui / formulei Anghel Lăcanu.
+- Localitatea trebuie tratată prudent: titlul dosarului este MALURI-DECES, dar textul citit indică Măicănești.
+- Nu există în prezent legătură demonstrată cu ramura St., Tudor T. sau Mihalcea Stoica.
+
+## Cluster Hângulești / Gulianca / Măicănești
+
+Aparițiile Lăcanu din Hângulești, Gulianca și Măicănești sunt urmărite separat în:
+
+- [Cluster geografic — Hângulești, Gulianca, Măicănești / Maluri](../research/clusters/hingulesti-gulianca-maicanesti.md)
+
+Această pagină include aparițiile Tudorache A. Lăcanu, Constantin Lăcanu, Sorica Lăcanu, Constantin St. Lăcanu, Ioana Lăcanu și ramura Anghel.
 
 ## Gospodărie și geografie familială
 
@@ -60,7 +104,12 @@ Casa era descrisă în memoria recentă ca o casă modestă, cu două camere și
 
 ## Documente relevante
 
+- [VN-F-00021-3-1906-91](../archive-references/vn-f-00021-3-1906-91.md)
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
+- [Act de naștere — Ioana Lăcanu, Hângulești, 1910](../documents/civil/ioana-lacanu-birth-1910-hingulesti.md)
+- [BR-F-00013-2-1919-241](../archive-references/br-f-00013-2-1919-241.md)
+- [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1920-123.md)
+- [BR-F-00013-2-1921-56](../archive-references/br-f-00013-2-1921-56.md)
 
 ## Întrebări deschise
 
@@ -69,3 +118,5 @@ Casa era descrisă în memoria recentă ca o casă modestă, cu două camere și
 - Ce documente pot confirma tatăl complet al lui Tudor T. Lacanu?
 - Cum se leagă Mire Lacanul din 1820 de ramurile ulterioare?
 - Unde erau exact casa lui Mănăilă, Gârlița, cotul moldovenesc și cotul muntenesc?
+- Există o identitate între Constantin St. Lăcanu din Hângulești 1910 și Constantin Lăcanu din dosarul Brăila 1920?
+- Există o legătură documentabilă între ramura Anghel Lăcanu și ramurile Vulturu?
