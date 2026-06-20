@@ -16,6 +16,7 @@ Cronologie pentru aparițiile documentate sau posibile ale familiei Lacanu.
 | aprox. 1885 | Nastasia Tudor T. Lacanu | Naștere estimată | De verificat | De completat | De verificat |
 | 1887 | Marghiola Petria St. Lacanu | Naștere indicată prin extras nr. 15/1887 | Vulturu | [Act căsătorie 1906](../documents/civil/marghiola-petria-st-lacanu-marriage-1906-vulturu.md) | Ridicat pentru an/extras, de verificat original |
 | 1895 | Stan Mănăilă Lacanu | Naștere | Vulturu | Memorie familială | Ridicat în familie |
+| 1900-11-20 | Nicu St. Lacanu | Căsătorie cu Sanda Tudorache Postolache | Vulturu | [Act căsătorie 1900](../documents/civil/nicu-st-lacanu-marriage-1900-vulturu.md) | Documentat prin transcriere; legătura cu ramura Mihai/Petria neconfirmată |
 | 1906-01-26 | Marghiola Petria St. Lacanu | Căsătorie cu Tonu Stan Gh. Manta | Vulturu | [Act căsătorie 1906](../documents/civil/marghiola-petria-st-lacanu-marriage-1906-vulturu.md) | Documentat prin transcriere |
 | 1908.10–1908.12 | De identificat | Dosar VULTURU-căsătorie | Vulturu | [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md) | Document existent; relevanță genealogică necunoscută |
 | 1918-03-09 | Mihai St. Lacanu | Deces la Smeeni după ce fusese adus din Vulturu de trupele germane | Smeeni | [Act moarte 1918](../documents/civil/mihai-st-lacanu-death-1918-smeeni.md) | Documentat prin transcriere |
@@ -25,11 +26,11 @@ Cronologie pentru aparițiile documentate sau posibile ale familiei Lacanu.
 | 1929 | Bunicul cercetătorului | Naștere | Vulturu | Memorie familială | Ridicat |
 | aprox. 1931 | Bunicul cercetătorului | Moartea mamei sale; Mănăilă devine figură importantă în creșterea lui | Vulturu | Memorie familială | Ridicat ca tradiție directă |
 | aprox. 1952 | Mănăilă M. Lacanu | Deces în perioada în care bunicul cercetătorului era în armată | Vulturu | Memorie familială | Ridicat, data aproximativă |
-| 1963 | Mama cercetătorului | Naștere | De completat | Memorie familială | Ridicat |
-| 1985 | Cercetătorul | Naștere | De completat | Memorie familială | Ridicat |
+| generații recente | Linia cercetătorului | Continuare familială; datele despre persoane vii nu se publică în repo public | De completat privat | Regulă internă repo | Anonimizat |
 
 ## Reguli
 
 - Evenimentele posibile se marchează explicit.
 - Dacă un document nu este legat direct de familie, se notează ca relevanță necunoscută.
 - Vârstele declarate în acte de deces sunt aproximative.
+- Datele despre persoane vii se omit sau se anonimizează în repository public.
