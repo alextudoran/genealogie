@@ -2,7 +2,13 @@
 
 ## Documente civile
 
-- De completat.
+- [Act de moarte — Mihai St. Lăcanu, Smeeni, 1918](../documents/civil/mihai-st-lacanu-death-1918-smeeni.md)
+- [Act de moarte — Margareta Mănăilă M. Lăcanu, Vulturu, 1918](../documents/civil/margareta-manaila-lacanu-death-1918-vulturu.md)
+- [Act de căsătorie — Marghiola Petria St. Lăcanu și Tonu Stan Gh. Manta, Vulturu, 1906](../documents/civil/marghiola-petria-st-lacanu-marriage-1906-vulturu.md)
+
+## Recensăminte / catagrafii
+
+- [Catagrafie — Mire Lacanul, Vulturu, 1820](../documents/census/mire-lacanul-catagrafie-1820.md)
 
 ## Documente bisericești
 
@@ -14,7 +20,7 @@
 
 ## Fotografii și imagini
 
-- De completat.
+- Fotografie familială cu Mănăilă, Stan, bunicul cercetătorului, frații lui și mama vitregă — de documentat într-o pagină separată când imaginea este disponibilă.
 
 ## Reguli
 
