@@ -4,6 +4,7 @@ Index pentru cote arhivistice și dosare.
 
 ## Arhive Naționale - Vrancea
 
+- [VN-F-00021-3-1906-91](../archive-references/vn-f-00021-3-1906-91.md) — MALURI-DECES, 1906.01–1906.12.
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md) — VULTURU-căsătorie, 1908.10–1908.12.
 
 ## Arhive Naționale - Brăila
