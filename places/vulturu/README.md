@@ -12,7 +12,7 @@ Localitate centrală pentru cercetarea familiei Lacanu și a contextului rural l
 
 ## Zone locale relevante
 
-- Gârlița — zonă menționată în amintiri familiale; posibil braț secat al Putnei sau alt curs de apă.
+- [Gârlița](garlita.md) — zonă menționată în amintiri familiale; posibil braț secat al Putnei sau alt curs de apă.
 - Drumul / șoseaua Brăila-Focșani.
 - Zonă de fostă graniță, cu pichete de grăniceri.
 - Cotul moldovenesc și cotul muntenesc — de clarificat ca localizare și sens istoric.
