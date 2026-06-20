@@ -6,7 +6,7 @@ Activă.
 
 ## Nivel de încredere
 
-Foarte scăzut până la documentare suplimentară.
+Variabil pe ramuri. Nu combinăm ramurile fără document direct sau lanț de indicii foarte puternic.
 
 ## Formulare ipoteză
 
@@ -15,7 +15,10 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 ## Ramuri / persoane urmărite
 
 - Linia T. Lacanu → Tudor T. Lacanu → Nastasia Tudor T. Lacanu.
-- Linia / persoana Mihai St. Lacanu.
+- Linia Mihai St. Lacanu → Mănăilă M. Lacanu → Stan Mănăilă Lacanu.
+- Linia Petria St. Lacanu → Marghiola Petria St. Lacanu.
+- Mire Lacanul, birnic vechi în Vulturu, 1820.
+- Nicu St. Lăcanu, căsătorit în 1900, fiul lui Stancu / Stanciu Lăcanu și Sanda St. Lăcanu — de verificat exact din original.
 - Alte apariții Lacanu în documente de Vulturu / Smeeni.
 
 ## Argumente pro
@@ -23,25 +26,43 @@ Există posibilitatea ca diferite persoane / ramuri Lacanu din Vulturu, Smeeni s
 | Argument | Sursă | Observații |
 |---|---|---|
 | Nume de familie comun | Note de cercetare | Insuficient singur |
-| Localități relevante apropiate / conectate | Context local | Necesită documentare administrativă și cronologică |
+| Localitate comună: Vulturu | Context local | Susține cercetarea ca grup familial extins |
+| Mire Lacanul este singurul Lăcanu identificat până acum în catagrafia locală din 1820 | Catagrafiile Vistieriei Moldovei, 1820 | Indică probabil o singură gospodărie fiscală Lăcanu, nu neapărat o singură familie nucleară |
+| Ramura Mihai St. / Mănăilă rămâne concentrată în zona Gârliței | Memorie familială | Proximitatea gospodăriilor susține continuitatea locală, nu dovedește legătura cu toate ramurile |
+| Mihai St. și Petria St. au același patronimic / abreviere și generații compatibile | Acte 1906 și 1918 | Ipoteză puternică de frăție, dar încă fără document de tată comun |
 
-## Argumente contra
+## Argumente contra / limite
 
 | Argument | Sursă | Observații |
 |---|---|---|
-| Nu există încă legătură directă documentată | Stadiu cercetare | Nu combinăm ramurile |
+| Nu există încă legătură directă documentată între ramura Tudor și ramura Mihai St. | Stadiu cercetare | Nu combinăm ramurile |
 | Inițialele/patronimicele sunt neclare | [St. Lacanu — analiză patronimică](st-lacanu-patronymic-analysis.md) | Risc de identificare greșită |
+| O gospodărie fiscală din 1820 putea include frați, fii adulți, nepoți sau rude colaterale | Interpretare istorică | Mire poate fi cap de gospodărie, nu neapărat strămoș direct al tuturor ramurilor |
+| Ramura Tudor T. este documentată separat și nu se știe zona exactă a satului în care locuiau urmașii lui Tudor | Memorie / lipsă date | Geografia locală nu conectează încă ramurile |
+
+## Interpretare curentă
+
+- Ramura Mihai St. → Mănăilă → Stan este tratată ca ramură familială foarte bine susținută prin memorie, documente, fotografie și continuitate de gospodărie.
+- Petria St. este probabil din aceeași generație și posibil frate cu Mihai St., dar relația rămâne ipoteză.
+- Mire Lacanul este cel mai vechi Lăcanu identificat în Vulturu și probabil legat de gospodăria / nucleul din care provin ramurile ulterioare, dar relația exactă nu este demonstrată.
+- Ramura Tudor T. rămâne separată până la găsirea unei legături documentare sau geografice clare.
 
 ## Documente relevante
 
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
+- [Mire Lacanul](../people/lacanu/mire-lacanul.md)
+- [Mihai St. Lacanu](../people/lacanu/mihai-st-lacanu.md)
+- [Petria St. Lacanu](../people/lacanu/petria-st-lacanu.md)
+- [Mănăilă M. Lacanu](../people/lacanu/manaila-m-lacanu.md)
 
 ## Ce ar confirma ipoteza
 
 - Relație părinte-copil explicită.
 - Martori/nași care se repetă coerent între documente.
 - Documente de proprietate, căsătorie, deces sau botez care conectează ramurile.
+- Hărți, acte de proprietate sau registre care plasează ramurile în aceeași gospodărie / aceeași vecinătate.
 
 ## Istoric analiză
 
 - 2026-06-20 — ipoteza creată ca spațiu separat pentru a evita amestecarea ramurilor.
+- 2026-06-20 — adăugate ramura Mihai St. / Mănăilă, Petria St., Mire Lacanul și contextul Gârliței.
