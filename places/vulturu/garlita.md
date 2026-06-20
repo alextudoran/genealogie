@@ -8,7 +8,9 @@ Notă de context local. Necesită verificare documentară.
 
 Gârlița este notată în cercetare ca zonă locală din Vulturu, asociată cu un braț al Putnei sau cu un alt curs de apă, secat cu mult înainte de perioada amintirilor directe.
 
-Zona era aproape de șoseaua / drumul Brăila–Focșani, dar casa familială nu era prima la șosea. Casa menționată în memoria familială era dincolo de Gârlița față de restul satului.
+Zona era aproape de șoseaua / drumul Brăila–Focșani, dar casa familială nu era prima la șosea. Nu este încă stabilit când drumul a devenit șosea în forma cunoscută în memoria recentă.
+
+Casa menționată în memoria familială era dincolo de Gârlița față de restul satului.
 
 ## Gospodăria lui Mănăilă
 
@@ -22,12 +24,14 @@ Bunicul cercetătorului a avut casa tot în această zonă, dar terenul provenea
 
 Memoria familială indică faptul că șoseaua / drumul Brăila–Focșani a funcționat pe o porțiune, inclusiv în zona Gârliței, ca linie de graniță istorică. În zonă existau pichete de grăniceri.
 
+În formularea familială, familia avea „granița la stradă”. Aceasta trebuie tratată ca memorie locală până la verificare cartografică sau documentară.
+
 Sunt reținute două repere locale:
 
 - cotul moldovenesc;
 - cotul muntenesc.
 
-Nu este încă clar care cot era mai aproape de casa familiei sau cum erau localizate exact aceste repere.
+Casa lui Mănăilă era foarte aproape de unul dintre aceste coturi, dar nu este încă stabilit care era mai apropiat și cum erau localizate exact aceste repere.
 
 Interpretare prudentă: această memorie poate reflecta vechea frontieră dintre Moldova și Țara Românească, păstrată în toponimie și memorie locală după Unirea Principatelor.
 
@@ -37,6 +41,7 @@ Interpretare prudentă: această memorie poate reflecta vechea frontieră dintre
 - Relația cu Putna sau alt curs de apă.
 - Când a secat brațul de apă.
 - Relația cu șoseaua / drumul Brăila–Focșani.
+- Când a devenit drumul șosea în forma relevantă pentru familie.
 - Poziția față de fosta graniță Moldova–Muntenia.
 - Localizarea pichetelor de grăniceri.
 - Localizarea cotului moldovenesc și cotului muntenesc.
