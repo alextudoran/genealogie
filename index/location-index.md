@@ -4,6 +4,9 @@
 
 - [Vulturu](../places/vulturu/README.md)
 - [Smeeni](../places/smeeni/README.md)
+- [Ismail](../places/ismail/README.md)
+- [Galați](../places/galati/README.md)
+- [Constanța](../places/constanta/README.md)
 
 ## Zone și contexte regionale
 
