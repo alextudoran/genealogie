@@ -14,7 +14,7 @@ Index de persoane documentate sau identificate parțial.
 
 ## Tudoran
 
-- De completat.
+- [Străbunica Tudoran — n. Ismail, 28.11.1917](../people/tudoran/strabunica-tudoran-ismail-1917.md)
 
 ## Persoane necunoscute
 
