@@ -30,7 +30,23 @@ Date extrase:
 - Soția: **Ruxanda Gavrilă R. Apostu [?]**, 46 ani, născută și domiciliată în Suraia, județul Putna.
 - Părinții soției: **Dumitrașcu Hăimanu [?]** și **Nastasia Hăimanu [?]**.
 
-## Cluster Miron — 1898
+### 1902 — act de căsătorie, Vulturu
+
+Sursă:
+
+- [Act de căsătorie — Isofache R. I. Miron și Irina St. Nicolae, Vulturu, 1902](../documents/civil/isofache-r-i-miron-irina-st-nicolae-marriage-1902-vulturu.md)
+
+Date extrase:
+
+- **Isofache R. I. Miron**, 25 ani, născut și domiciliat în Vulturu, județul Putna.
+- Tatăl lui Isofache: **Rodu Miron [?]**.
+- Mama lui Isofache: **Nița Miron**.
+- Soția: **Irina St. Nicolae**, 19 ani, născută în Gologanu, județul Râmnicu Sărat, domiciliată în Vulturu.
+- Părinții soției: **Ștefan Nicolae** și **Smaranda G. Nicolae**.
+
+## Clustere Miron
+
+### Cluster Miron — 1898
 
 ```text
 Mihalea/Mihăilă Miron [?] + Maria/Mara Miron [?]
@@ -38,12 +54,23 @@ Mihalea/Mihăilă Miron [?] + Maria/Mara Miron [?]
     └── căs. 1898 cu Ruxanda Gavrilă R. Apostu [?] (~1852, Suraia)
 ```
 
+### Cluster Miron — 1902
+
+```text
+Rodu Miron [?] + Nița Miron
+└── Isofache R. I. Miron (~1876/1877, Vulturu)
+    └── căs. 1902 cu Irina St. Nicolae (~1882/1883, Gologanu)
+```
+
 ## Variante și incertitudini nominale
 
-- **Miron** — nume de familie de interes; apare repetat în document.
+- **Miron** — nume de familie de interes; apare repetat în documente din Vulturu.
 - **Mihalea / Mihăilă / Mihalcea [?]** — lectură incertă; nu se normalizează încă.
-- **Maria / Mara [?]** — lectura prenumelui mamei soțului trebuie verificată.
-- **Botârlău / Botîrlău [?]** — satul de domiciliu al soțului; forma exactă trebuie verificată în registru sau în alte documente locale.
+- **Maria / Mara [?]** — lectura prenumelui mamei soțului din actul 1898 trebuie verificată.
+- **Botârlău / Botîrlău [?]** — satul de domiciliu al soțului din 1898; forma exactă trebuie verificată în registru sau în alte documente locale.
+- **Isofache** — prenume/formă nominală de verificat în actul original sau în alte apariții.
+- **R. I.** — inițiale păstrate exact; nu se extind fără document.
+- **Rodu Miron [?]** — lectură incertă pentru tatăl lui Isofache.
 
 ## Ipoteze active
 
@@ -55,3 +82,5 @@ Mihalea/Mihăilă Miron [?] + Maria/Mara Miron [?]
 - Există acte de naștere/căsătorie/deces care leagă această linie de familia Miron din Vulturu?
 - Gheorghe Miron din 1898 aparține aceleiași ramuri ca familia de interes sau este doar o apariție nominală locală?
 - Ce alte apariții Miron există în registrele civile din Vulturu, Suraia sau satele apropiate între 1850 și 1920?
+- Există vreo legătură documentabilă între clusterul Miron din 1898 și clusterul Miron din 1902?
+- Ce reprezintă inițialele **R. I.** din numele lui Isofache R. I. Miron?
