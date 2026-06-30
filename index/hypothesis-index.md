@@ -7,6 +7,10 @@ Ipotezele active sunt păstrate separat de faptele confirmate.
 - [St. Lacanu — analiză patronimică](../hypotheses/st-lacanu-patronymic-analysis.md)
 - [Legături între ramuri Lacanu](../hypotheses/lacanu-branch-links.md)
 
+## Miron
+
+- [Familia Miron din Vulturu și linia străbunicii din partea bunicii materne](../hypotheses/miron-vulturu-maternal-grandmother-line.md)
+
 ## Tudoran
 
 - [Traseul Tudoran: Ismail → Galați → Constanța](../hypotheses/tudoran-ismail-galati-constanta-migration.md)
