@@ -7,7 +7,7 @@
 - [Act de căsătorie — Ion Alexandru și Anghelina Stan Lăcanu, Vulturu, 1901](../documents/civil/ion-alexandru-anghelina-stan-lacanu-marriage-1901-vulturu.md)
 - [Act de căsătorie — Isofache R. I. Miron și Irina St. Nicolae, Vulturu, 1902](../documents/civil/isofache-r-i-miron-irina-st-nicolae-marriage-1902-vulturu.md)
 - [Act de căsătorie — Ion Dumitru Vasile și Cristina V. R. Toma, Vulturu, 1902](../documents/civil/ion-dumitru-vasile-cristina-v-r-toma-marriage-1902-vulturu.md)
-- [Act de căsătorie — Petrea Pavel Stan Bumbu și Parina Neagu Mocăniță, Vulturu, 1902](../documents/civil/petrea-pavel-stan-bumbu-parina-neagu-mocanita-marriage-1902-vulturu.md)
+- [Act de căsătorie — Petrea Pavel Stan Bumbu și Păuna Neagu Mocăniță, Vulturu, 1902](../documents/civil/petrea-pavel-stan-bumbu-pauna-neagu-mocanita-marriage-1902-vulturu.md)
 - [Act de moarte — Mihai St. Lăcanu, Smeeni, 1918](../documents/civil/mihai-st-lacanu-death-1918-smeeni.md)
 - [Act de moarte — Margareta Mănăilă M. Lăcanu, Vulturu, 1918](../documents/civil/margareta-manaila-lacanu-death-1918-vulturu.md)
 - [Act de moarte — Marghiola Anghel Lăcanu, 1906](../documents/civil/marghiola-anghel-lacanu-death-1906-maicanesti.md)
