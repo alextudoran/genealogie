@@ -7,6 +7,7 @@ Acest fișier este punctul principal de intrare în cercetare.
 - [Lacanu](../families/lacanu.md)
 - [Miron](../families/miron.md)
 - [Tudoran](../families/tudoran.md)
+- [Vasile](../families/vasile.md)
 - [Familii conexe](../families/allied-families.md)
 
 ## Persoane
