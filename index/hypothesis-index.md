@@ -11,6 +11,10 @@ Ipotezele active sunt păstrate separat de faptele confirmate.
 
 - [Familia Miron din Vulturu și linia străbunicii din partea bunicii materne](../hypotheses/miron-vulturu-maternal-grandmother-line.md)
 
+## Petre / Vasile
+
+- [Formulele Petre Vasile, Petriu Vasile, Petre V.](../hypotheses/petre-vasile-formula-observation.md)
+
 ## Tudoran
 
 - [Traseul Tudoran: Ismail → Galați → Constanța](../hypotheses/tudoran-ismail-galati-constanta-migration.md)
