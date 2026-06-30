@@ -81,6 +81,23 @@ Note:
 - Localitatea trebuie tratată prudent: titlul dosarului este MALURI-DECES, dar textul citit indică Măicănești.
 - Nu există în prezent legătură demonstrată cu ramura St., Tudor T. sau Mihalcea Stoica.
 
+## Ramura Stan Lăcanu + Ancuța Lăcanu — documentată separat
+
+```text
+Stan Lăcanu + Ancuța Lăcanu
+└── Anghelina Stan Lăcanu (~1876/1877)
+```
+
+Sursă principală:
+
+- [Act de căsătorie — Ion Alexandru și Anghelina Stan Lăcanu, Vulturu, 1901](../documents/civil/ion-alexandru-anghelina-stan-lacanu-marriage-1901-vulturu.md)
+
+Note:
+
+- Cercetătorul a precizat că acest **Stan Lăcanu nu este tatăl bunicului**.
+- Ramura este păstrată ca apariție independentă Lăcanu din Vulturu, utilă pentru corelări viitoare.
+- Nu se face legătură automată cu linia Mihai St. / Mănăilă / Stan.
+
 ## Cluster Hângulești / Gulianca / Măicănești
 
 Aparițiile Lăcanu din Hângulești, Gulianca și Măicănești sunt urmărite separat în:
@@ -106,6 +123,7 @@ Casa era descrisă în memoria recentă ca o casă modestă, cu două camere și
 
 - [VN-F-00021-3-1906-91](../archive-references/vn-f-00021-3-1906-91.md)
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
+- [Act de căsătorie — Ion Alexandru și Anghelina Stan Lăcanu, Vulturu, 1901](../documents/civil/ion-alexandru-anghelina-stan-lacanu-marriage-1901-vulturu.md)
 - [Act de naștere — Ioana Lăcanu, Hângulești, 1910](../documents/civil/ioana-lacanu-birth-1910-hingulesti.md)
 - [BR-F-00013-2-1919-241](../archive-references/br-f-00013-2-1919-241.md)
 - [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1920-123.md)
@@ -120,3 +138,4 @@ Casa era descrisă în memoria recentă ca o casă modestă, cu două camere și
 - Unde erau exact casa lui Mănăilă, Gârlița, cotul moldovenesc și cotul muntenesc?
 - Există o identitate între Constantin St. Lăcanu din Hângulești 1910 și Constantin Lăcanu din dosarul Brăila 1920?
 - Există o legătură documentabilă între ramura Anghel Lăcanu și ramurile Vulturu?
+- Cine este Stan Lăcanu, soțul Ancuței Lăcanu și tatăl Anghelinei Stan Lăcanu?
