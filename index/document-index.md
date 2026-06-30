@@ -5,6 +5,7 @@
 - [Act de căsătorie — Gheorghe Mihalea/Mihăilă Miron și Ruxanda Gavrilă R. Apostu, Vulturu / Suraia, 1898](../documents/civil/gheorghe-mihalea-miron-ruxanda-apostu-marriage-1898-vulturu.md)
 - [Act de căsătorie — Anghel Ion Stroia și Chița Petre V. Lăutăru, Vulturu, 1899](../documents/civil/anghel-ion-stroia-chita-petre-v-lautaru-marriage-1899-vulturu.md)
 - [Act de căsătorie — Ion Alexandru și Anghelina Stan Lăcanu, Vulturu, 1901](../documents/civil/ion-alexandru-anghelina-stan-lacanu-marriage-1901-vulturu.md)
+- [Act de căsătorie — Isofache R. I. Miron și Irina St. Nicolae, Vulturu, 1902](../documents/civil/isofache-r-i-miron-irina-st-nicolae-marriage-1902-vulturu.md)
 - [Act de moarte — Mihai St. Lăcanu, Smeeni, 1918](../documents/civil/mihai-st-lacanu-death-1918-smeeni.md)
 - [Act de moarte — Margareta Mănăilă M. Lăcanu, Vulturu, 1918](../documents/civil/margareta-manaila-lacanu-death-1918-vulturu.md)
 - [Act de moarte — Marghiola Anghel Lăcanu, 1906](../documents/civil/marghiola-anghel-lacanu-death-1906-maicanesti.md)
