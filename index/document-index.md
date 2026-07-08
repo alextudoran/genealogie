@@ -26,6 +26,7 @@
 
 - [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
 - [Iliescu / Miron — veterani din Vulturu, împroprietărire în Dobrogea, 1903–1908](../documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md)
+- [Mariana Corina Duca — Spiru Haret și reformarea învățământului vrâncean, Vulturu / Putna, 1897–1910](../documents/printed/duca-spiru-haret-invatamant-vulturu-putna-1897-1910.md)
 
 ## Documente bisericești
 
