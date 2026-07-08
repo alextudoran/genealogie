@@ -74,6 +74,7 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 - [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
 - [Iliescu / Miron — veterani din Vulturu, împroprietărire în Dobrogea, 1903–1908](../../documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md)
 - [Mariana Corina Duca — Spiru Haret și reformarea învățământului vrâncean, Vulturu / Putna, 1897–1910](../../documents/printed/duca-spiru-haret-invatamant-vulturu-putna-1897-1910.md)
+- [Maria Mihăilescu — orfanii de război din Vulturu / Putna, 1917–1924](../../documents/printed/mihailescu-orfani-razboi-vulturu-putna-1917-1924.md)
 - [Vulturu — surse nominale țintite](../../research/targets/vulturu-nominal-sources.md)
 
 ## Întrebări deschise
@@ -87,3 +88,4 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 - Ce localități trebuie tratate ca parte a cercului imediat de căutare pentru căsătorii, nașteri, decese și martori?
 - Care este lista completă a celor 28 de veterani din Vulturu menționați în dosarul Prefecturii Putna din 1903?
 - Cine erau primarul, învățătorul / dirigintele și eventualii semnatari locali din dosarele școlare pentru Vulturul / Vadu Roșca, 1897–1910?
+- Cine apar în tabelul celor 161 de orfani de război din Vulturu, dosar Prefectura Județului Putna nr. 13/1918?
