@@ -37,6 +37,7 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 | Studii istorice despre Putna / Vrancea | indică fonduri și dosare | de obicei fără liste nominale complete |
 | Presă centrală | evenimente rare, licitații, citații | OCR incomplet și rezultate rare |
 | Wikimedia / Commons | scanuri publice, Monitorul Oficial, presă, volume diverse | verificat manual pentru `vultur` / `vulturu`; negativ pentru surse nominale utile |
+| Inventare ANR online | pot indica unități arhivistice exacte | căutare liberă `Vulturul` / `Vulturu` negativă după identificarea poziției din Reforma Agrară 1864 |
 
 ## Protocol de lucru
 
@@ -47,6 +48,21 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 5. Variantele grafice se păstrează în forma originală din sursă, apoi se notează forma normalizată separat.
 
 ## Sarcini deschise concrete
+
+### Inventare ANR online — Vulturul / Vulturu
+
+Status: **căutare liberă negativă după identificarea poziției Reforma Agrară 1864**.
+
+Verificare cercetător:
+
+- Au fost căutate alte inventare ANR online care să conțină **Vulturul**, **Vulturu**, **Vulturul de Sus** sau variante apropiate.
+- Nu a fost găsită o poziție nouă relevantă după dosarul identificat în **Reforma Agrară 1864. Inv. 629**.
+
+Concluzie:
+
+- Căutarea liberă în inventarele ANR după `Vulturul` / `Vulturu` este considerată momentan negativă.
+- Pista nu se abandonează complet, dar nu mai merită reluată generic.
+- Se revine doar dacă apare un fond / inventar concret nou sau un termen administrativ mai precis.
 
 ### Reforma agrară 1864 / moșia statului Vulturul de Sus
 
