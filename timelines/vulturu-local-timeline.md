@@ -8,6 +8,7 @@ Cronologie pentru evenimente locale relevante pentru cercetarea genealogică.
 
 | Data / interval | Eveniment | Loc / zonă | Sursă | Relevanță |
 |---|---|---|---|---|
+| ca. 1860 | Apariție nominală **I. N. Miron**, legată de o mențiune folcloristică transmisă prin fiul său, învățătorul **Em. I. Mironescu** | Vulturul, plasa Biliești, jud. Putna | [Materialuri folkloristice — I. N. Miron](../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md) | Apariție nominală ante 1918 / context local |
 | înainte de nașterea cercetătorului | Gârlița era deja secată, conform amintirilor familiale | Vulturu / zona Gârliței | Sursă orală familială | Context local |
 | necunoscut | Șoseaua / drumul Brăila-Focșani funcționa ca zonă de graniță pe o porțiune | Zona Gârliței | Sursă orală familială | Context istoric local |
 | necunoscut | Existența pichetelor de grăniceri | Zona Gârliței | Sursă orală familială | Context istoric local |
@@ -23,3 +24,4 @@ Cronologie pentru evenimente locale relevante pentru cercetarea genealogică.
 - Unde erau pichetele de grăniceri?
 - Ce erau cotul moldovenesc și cotul muntenesc?
 - Care cot era mai aproape de casa lui Mănăilă?
+- Poate fi identificat **I. N. Miron** în alte surse locale, fiscale, școlare, bisericești sau civile?
