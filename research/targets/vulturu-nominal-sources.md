@@ -18,9 +18,9 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 |---:|---|---|---|---|---|
 | 1 | Registre civile Vulturu, Hângulești, Maluri, Măicănești, Suraia | 1890–1920 | Arhive Naționale / scanuri locale / copii cercetător | părinți, martori, nași, domicilii, formule patronimice | în lucru |
 | 2 | Liste electorale / alegători comunali / județeni | 1866–1918 | Monitorul Oficial, Buletine județene, fonduri prefectură | bărbați majori, proprietari, contribuabili | web negativ; de reluat manual pe fascicule / arhivă |
-| 3 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | de căutat manual |
+| 3 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | prioritate scăzută / sărită pentru moment |
 | 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | web negativ; de reluat bibliografic |
-| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1905 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | de căutat manual |
+| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | sursă secundară găsită; dosar 14/1903 de verificat |
 | 6 | Reforma agrară 1864 / tabele clăcași / împroprietăriți | 1864–1870 | fond Prefectura Putna / lucrări istorice | capi de gospodărie, clăcași, pământ primit | de căutat manual |
 | 7 | Răscoala din 1907 / anchete / procese / despăgubiri | 1907–1908 | fonduri judiciare, prefectură, presă | răsculați, martori, proprietari, arendași | de căutat manual |
 | 8 | Rechiziții și contribuții de război | 1916–1918 | fond prefectură / armata / articole locale | deținători de vite, care, trăsuri, bunuri | de căutat manual |
@@ -91,12 +91,40 @@ Concluzie:
 - Nu au fost găsite liste electorale nominale indexate public pentru Vulturu / Vulturul / Biliești / Putna.
 - Căutările generale returnează zgomot modern sau rezultate nerelevante.
 - Pista rămâne relevantă, dar trebuie făcută manual pe fascicule Monitorul Oficial, buletine județene sau fonduri de prefectură.
-- Prioritatea următoare, dacă se caută oameni concreți, poate fi mai bună pe **Camera de Comerț / comercianți / industriași**, deoarece acolo există deja precedent nominal pentru Vulturu în 1899.
+
+### Camera de Comerț / comercianți / industriași
+
+Status: **sărită pentru moment / prioritate scăzută**.
+
+Motiv:
+
+- Comunitatea urmărită pare puternic agrară.
+- Pentru numele de familie urmărite în primul exercițiu, această pistă este probabil periferică.
+- Rămâne doar ca sursă auxiliară dacă apar familii cu profil comercial, cârciumari, băcani, morari sau meseriași.
 
 ### Veterani / împroprietăriri
 
-- Verifică dacă tabelele de veterani din comuna Vulturu sunt publicate integral sau doar citate în articole istorice.
-- Caută eventualele cote din fondul Prefectura județului Putna.
+Status: **sursă secundară găsită; sursă arhivistică promițătoare identificată**.
+
+Sursă găsită:
+
+- Ionuț Iliescu, Gheorghe Miron, **Aspecte privind împroprietărirea în Dobrogea a veteranilor din Războiul de Independență (1877–1878). Studiu de caz pentru județul Putna**, *Cronica Vrancei*, XVII, 2013.
+- PDF: https://biblioteca-digitala.ro/reviste/Cronica-Vrancei/17-Cronica-Vrancei-XVII-2013-03.pdf
+- Fișă internă: `documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md`.
+
+Date utile:
+
+- Articolul menționează **28 de veterani din Vulturu** care sperau să fie împroprietăriți în primăvara anului **1904**.
+- Trimitere arhivistică pentru cei 28: **S.J.A.N. Vrancea, fond Prefectura Județului Putna, dosar nr. 14/1903, f. 42–42 verso**.
+- Trimitere pentru primăvara 1904: **același dosar, f. 80**.
+- Articolul mai menționează doi veterani din Vulturu în 1908: **Negoiță Costache** și **Nedelcu Grigore**, împroprietăriți în comuna **Nalbanț**, județul **Tulcea**, apoi întorși în Vulturu.
+- În tabelul final apare cel puțin o intrare asociată cu **Vulturu**, dar lectura OCR a numelui este incertă: `Niu / Nicu [?] Dimoție / Dimoftie [?] Stan`.
+
+Concluzie:
+
+- Pista veteranilor este relevantă și mai promițătoare decât listele electorale indexate web.
+- Lista completă a celor 28 de veterani nu este publicată clar în articol; trebuie verificat **dosarul 14/1903, f. 42–42 verso**.
+- Pentru numele urmărite (**Lăcanu, Mocăniță, Vasile, Miron/Mironescu, Leoca**) nu există încă o potrivire clară în articolul publicat.
 
 ### Rechiziții 1916–1918
 
