@@ -9,7 +9,7 @@
 - PDF online: https://biblioteca-digitala.ro/reviste/Cronica-Vrancei/17-Cronica-Vrancei-XVII-2013-03.pdf
 - Localitate urmărită: **Vulturu / Vulturul**, fost județ **Putna**
 - Interval documentar: **1903–1908**
-- Status: sursă relevantă; identifică existența unui grup de veterani din Vulturu și câteva nume; lista completă trebuie verificată în fondul arhivistic
+- Status: sursă relevantă contextual; lista consultată nu conține numele urmărite în exercițiul curent
 
 ## Rezumat
 
@@ -26,18 +26,15 @@ Pentru Vulturu, articolul menționează explicit că **28 de veterani** sperau s
 - Trimiterea de subsol pentru cei 28 de veterani din Vulturu indică: **S.J.A.N. Vn., fond Prefectura Județului Putna, dosar nr. 14/1903, f. 42–42 verso**.
 - Trimiterea de subsol pentru primăvara anului 1904 indică: **același dosar, f. 80**.
 
-### Tabel final — apariție Vulturu
+### Tabel final — verificare cercetător
 
-În tabelul final cu veteranii care urmau să fie împroprietăriți apare o intrare cu localitatea **Vulturu**.
+Cercetătorul a consultat lista unde apăruse lectura incertă inițială `Dimoție / Dimoftie [?] Stan`.
 
-Lectură OCR / transcriere provizorie:
+Rezultat verificare:
 
-- **Niu / Nicu [?] Dimoție / Dimoftie [?] Stan**, comuna **Vulturu**, județul **Putna**.
-
-Notă critică:
-
-- Lectura este incertă deoarece textul OCR al tabelului este slab.
-- Această persoană trebuie verificată vizual în PDF sau în dosarul de arhivă înainte de a fi introdusă ca nume sigur.
+- Niciun nume din listă nu se potrivește cu numele urmărite în primul exercițiu: **Lăcanu**, **Mocăniță**, **Vasile** din linia urmărită, **Miron/Mironescu**, **Leoca/Leocă**.
+- Apar mai multe persoane cu numele **Vasile** în **Călieni**, dar nu există momentan legătură imediată dovedită cu Vulturu sau cu familia urmărită.
+- Intrarea citită inițial ca `Niu / Nicu [?] Dimoție / Dimoftie [?] Stan` nu se păstrează ca ipoteză relevantă pentru linia urmărită.
 
 ### 1908 — veterani din Vulturu întorși din Dobrogea
 
@@ -50,16 +47,17 @@ Aceștia declarau că în anul **1906** fuseseră împroprietăriți ca veterani
 
 ## Valoare genealogică
 
-### Mare
+### Contextuală
 
 - Confirmă existența unei cohorte de **28 de veterani din Vulturu** la începutul secolului XX.
-- Deschide o sursă nominală probabil foarte bogată în fondul **Prefectura Județului Putna**, dosar **14/1903**.
+- Deschide o sursă nominală în fondul **Prefectura Județului Putna**, dosar **14/1903**.
 - Oferă două nume clare din Vulturu pentru 1908: **Negoiță Costache** și **Nedelcu Grigore**.
 
-### Medie
+### Limitată pentru exercițiul curent
 
-- Tabelul publicat în articol oferă cel puțin o intrare legată de Vulturu, dar lectura numelui este nesigură.
-- Pentru numele urmărite în primul exercițiu (**Lăcanu, Mocăniță, Vasile, Miron/Mironescu, Leoca**), articolul nu confirmă încă o potrivire directă.
+- Lista consultată nu conține numele urmărite direct.
+- Aparițiile **Vasile** din **Călieni** nu se conectează momentan cu linia urmărită.
+- Pentru numele urmărite în primul exercițiu (**Lăcanu, Mocăniță, Vasile, Miron/Mironescu, Leoca**), sursa este momentan negativă.
 
 ## Cote / piste arhivistice
 
@@ -69,10 +67,10 @@ Aceștia declarau că în anul **1906** fuseseră împroprietăriți ca veterani
 
 ## Interpretare prudentă
 
-- Sursa nu oferă public lista completă a celor 28 de veterani din Vulturu.
-- Lista completă pare să existe în dosarul arhivistic, nu integral în articol.
-- Numele urmărite în cercetarea familială nu apar încă în formă clară în această sursă.
-- Totuși, această pistă este mai promițătoare decât listele electorale, deoarece știm exact fondul, dosarul și filele probabile.
+- Sursa este utilă pentru contextul social al Vulturu și pentru mobilitatea veteranilor spre Dobrogea.
+- Pentru primul exercițiu nominal, rezultatul este **negativ**.
+- Persoanele **Vasile** din Călieni se păstrează doar ca zgomot / posibilă pistă laterală, fără conectare genealogică.
+- Nu se introduce nicio legătură cu familiile urmărite fără surse suplimentare.
 
 ## Legături interne
 
@@ -82,7 +80,6 @@ Aceștia declarau că în anul **1906** fuseseră împroprietăriți ca veterani
 
 ## Întrebări deschise
 
-- Care este lista completă a celor 28 de veterani din Vulturu?
-- Apare în dosarul 14/1903 vreun nume urmărit: **Lăcanu**, **Mocăniță**, **Vasile**, **Miron/Mironescu**, **Leoca**?
-- Care este lectura corectă a persoanei din tabelul final asociată cu **Vulturu**: `Niu / Nicu [?] Dimoție / Dimoftie [?] Stan`?
+- Merită consultat integral dosarul 14/1903 doar pentru context social, chiar dacă lista publicată nu conține numele urmărite?
+- Există vreo legătură ulterioară între aparițiile **Vasile** din Călieni și familiile din Vulturu?
 - Ce trimitere exactă are pasajul despre **Negoiță Costache** și **Nedelcu Grigore** din Vulturu?
