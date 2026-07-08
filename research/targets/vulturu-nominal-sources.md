@@ -35,6 +35,7 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 | Hărți istorice | gospodării / toponimie / vecinătăți | nu dau nume de persoane |
 | Studii istorice despre Putna / Vrancea | indică fonduri și dosare | de obicei fără liste nominale complete |
 | Presă centrală | evenimente rare, licitații, citații | OCR incomplet și rezultate rare |
+| Wikimedia / Commons | scanuri publice, Monitorul Oficial, presă, volume diverse | verificat manual pentru `vultur` / `vulturu`; negativ pentru surse nominale utile |
 
 ## Protocol de lucru
 
@@ -148,3 +149,18 @@ Concluzie:
 - Nu a fost confirmată online o listă nominală de deținători de bunuri rechiziționate.
 - Pista rămâne posibilă doar prin fonduri de prefectură, dosare militare, primărie sau articole locale neindexate.
 - Pentru primul exercițiu nominal, pista este momentan negativă.
+
+### Wikimedia / Commons — trecere manuală Vultur / Vulturu
+
+Status: **verificare manuală negativă pentru primul exercițiu nominal**.
+
+Verificare cercetător:
+
+- Au fost parcurse resursele de pe **Wikimedia / Commons** care menționează `vultur` / `vulturu`.
+- Nu a fost găsită nicio sursă demnă de salvat ca document genealogic sau istoric local relevant pentru obiectivul curent.
+- Au apărut doar mențiuni de tip **sechestre**, **probleme cu boli** sau alte episoade administrative fără date palpabile pentru familiile urmărite.
+
+Concluzie:
+
+- Nu se creează fișe separate pentru aceste rezultate.
+- Wikimedia / Commons rămâne tratat ca epuizat pentru căutarea liberă `vultur` / `vulturu`, cu excepția cazului în care apare ulterior o referință exactă la un număr / pagină / document.
