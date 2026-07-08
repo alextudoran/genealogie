@@ -22,6 +22,10 @@
 
 - [Catagrafie — Mire Lacanul, Vulturu, 1820](../documents/census/mire-lacanul-catagrafie-1820.md)
 
+## Surse tipărite / folclor / istorie locală
+
+- [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
+
 ## Documente bisericești
 
 - De completat.
