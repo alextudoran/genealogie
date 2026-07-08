@@ -20,9 +20,10 @@
 - Format consultabil: PDF online
 - URL: https://upload.wikimedia.org/wikipedia/commons/4/46/Grigore_G._Tocilescu_-_Materialuri_folkloristice._Volumul_1-_Poesia_poporana._Partea_2.pdf
 - Pagina / poziția exactă în PDF: **de completat din PDF**
-- Pagina tipărită: **de completat dacă apare pe scan**
+- Pagina tipărită: **nu este vizibilă în screenshot-ul verificat**
 - Sursă adăugată în sesiunea: **2026-07-08**
 - Mențiune verificată de cercetător în PDF deschis: **2026-07-08**
+- Screenshot verificat în conversație: **2026-07-08**
 
 ## Transcrierea mențiunii
 
@@ -35,6 +36,7 @@ Notă de transcriere:
 - Imaginea / textul folosește ortografie veche: **invețătorul**, **tatal seu**, **Biliesci**.
 - În fișa de cercetare se păstrează forma normalizată **Biliești**, dar forma originală **Biliesci** rămâne notată explicit.
 - Localitatea este citită în pasaj ca **Oncea — Covurlui**; de verificat dacă forma normalizată este **Oancea, Covurlui**.
+- În screenshot-ul primit nu se vede un număr de pagină tipărită; rămâne de completat pagina PDF dacă este vizibilă în reader.
 
 ## Rezumatul mențiunii
 
@@ -80,7 +82,6 @@ Cercetătorul a verificat că **Mironescu** mai apare ca informator / colector d
 ## Întrebări deschise
 
 - Care este pagina PDF exactă a mențiunii?
-- Care este pagina tipărită exactă a mențiunii, dacă apare pe scan?
 - Cine a fost **Em. I. Mironescu** și poate fi documentat independent ca fiu al lui **I. N. Miron**?
 - Apare **I. N. Miron** în catagrafii, registre bisericești, liste fiscale, documente școlare sau presă?
 - Există o legătură documentabilă între această apariție și familiile **Miron** din actele civile Vulturu 1898–1902?
