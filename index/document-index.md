@@ -28,6 +28,7 @@
 - [Iliescu / Miron — veterani din Vulturu, împroprietărire în Dobrogea, 1903–1908](../documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md)
 - [Mariana Corina Duca — Spiru Haret și reformarea învățământului vrâncean, Vulturu / Putna, 1897–1910](../documents/printed/duca-spiru-haret-invatamant-vulturu-putna-1897-1910.md)
 - [Maria Mihăilescu — orfanii de război din Vulturu / Putna, 1917–1924](../documents/printed/mihailescu-orfani-razboi-vulturu-putna-1917-1924.md)
+- [Epoca — Constantin I. Lupu, legendele întemeierii unor localități din Putna](../documents/printed/epoca-lupu-legende-intemeierii-localitati-putna-vulturu.md)
 
 ## Documente bisericești
 
@@ -39,8 +40,7 @@
 - [VN-F-00021-3-1906-91](../archive-references/vn-f-00021-3-1906-91.md)
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
 - [BR-F-00013-2-1919-241](../archive-references/br-f-00013-2-1919-241.md)
-- [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1920-123.md)
-- [BR-F-00013-2-1921-56](../archive-references/br-f-00013-2-1921-56.md)
+- [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1921-56.md)
 
 ## Fotografii și imagini
 
