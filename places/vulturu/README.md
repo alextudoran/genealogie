@@ -71,6 +71,7 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 
 - [VN-F-00021-3-1908-153](../../archive-references/vn-f-00021-3-1908-153.md)
 - [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
+- [Iliescu / Miron — veterani din Vulturu, împroprietărire în Dobrogea, 1903–1908](../../documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md)
 - [Vulturu — surse nominale țintite](../../research/targets/vulturu-nominal-sources.md)
 
 ## Întrebări deschise
@@ -82,3 +83,4 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 - Care dintre variantele **Hultur / Hulturul / Hulturu / Hulturulu** apar efectiv în surse, dacă apar?
 - Cum se corelează Vulturu de Jos / Vulturu de Sus cu familiile urmărite în registrele civile?
 - Ce localități trebuie tratate ca parte a cercului imediat de căutare pentru căsătorii, nașteri, decese și martori?
+- Care este lista completă a celor 28 de veterani din Vulturu menționați în dosarul Prefecturii Putna din 1903?
