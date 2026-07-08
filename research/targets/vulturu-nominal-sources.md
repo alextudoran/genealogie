@@ -19,8 +19,8 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 | 1 | Registre civile Vulturu, Hângulești, Maluri, Măicănești, Suraia | 1890–1920 | Arhive Naționale / scanuri locale / copii cercetător | părinți, martori, nași, domicilii, formule patronimice | în lucru |
 | 2 | Liste electorale / alegători comunali / județeni | 1866–1918 | Monitorul Oficial, Buletine județene, fonduri prefectură | bărbați majori, proprietari, contribuabili | web negativ; de reluat manual pe fascicule / arhivă |
 | 3 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | prioritate scăzută / sărită pentru moment |
-| 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | web negativ; de reluat bibliografic |
-| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | verificat; negativ pentru numele urmărite |
+| 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | N. N. Săveanu negăsit online; Duca/Haret folosit ca alternativă cu cote de arhivă |
+| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | complet; negativ pentru numele urmărite |
 | 6 | Reforma agrară 1864 / tabele clăcași / împroprietăriți | 1864–1870 | fond Prefectura Putna / lucrări istorice | capi de gospodărie, clăcași, pământ primit | de căutat manual |
 | 7 | Răscoala din 1907 / anchete / procese / despăgubiri | 1907–1908 | fonduri judiciare, prefectură, presă | răsculați, martori, proprietari, arendași | de căutat manual |
 | 8 | Rechiziții și contribuții de război | 1916–1918 | fond prefectură / armata / articole locale | deținători de vite, care, trăsuri, bunuri | web negativ; de reluat manual / arhivă |
@@ -49,17 +49,25 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 
 ### Tocilescu / Materialuri folkloristice
 
-Status: **mențiune confirmată textual de cercetător; pagina exactă rămâne de completat**.
+Status: **verificare cercetător completă**.
 
 - Mențiunea exactă apare în secțiunea **Adenda la Cântecele bătrânești, haiducești, la doine și strigături**, piesa **Badiu — Varianta**.
 - Formula verificată: **Em. I. Mironescu**, învățător din **Oncea — Covurlui**, a auzit varianta de la tatăl său **I. N. Miron**, pe la **1860**, în comuna **Vulturul**, plasa **Biliesci**, județul **Putna**.
 - Cercetătorul a verificat că **Mironescu** mai apare ca informator / colector în alte sate, dar fără alte referințe directe la **Miron** sau **Vulturul**.
-- De completat: pagina PDF; pagina tipărită nu este vizibilă în screenshot-ul verificat.
+- Nu mai este sarcină activă de căutare web / OCR public pentru această sursă.
 - Fișă actualizată: `documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md`.
 
-### Școli rurale Putna
+### Ion Ionescu de la Brad / Agricultura județului Putna
 
-Status: **căutare web indexată negativă; de reluat bibliografic / arhivistic**.
+Status: **verificare cercetător completă**.
+
+- Sursa a fost parcursă ca pistă de context agrar / toponimic pentru Vulturul de Sus, Vulturul de Jos, Vadu Roșca, Călieni, Maluri și împrejurimi.
+- Nu mai este sarcină activă de căutare web / OCR public pentru această sursă.
+- Dacă ulterior apar nume sau pasaje exacte din această sursă, acestea trebuie salvate în fișă separată, dar sursa nu mai rămâne în coada de verificare generală.
+
+### Școli rurale Putna / N. N. Săveanu
+
+Status: **volum negăsit online; de reluat doar bibliografic / arhivistic**.
 
 Au fost căutate, fără rezultat util, formulele:
 
@@ -71,9 +79,10 @@ Au fost căutate, fără rezultat util, formulele:
 Concluzie:
 
 - Nu a fost găsit scan public.
-- Nu a fost găsită potrivire indexată utilă.
-- Pista rămâne relevantă pentru **Em. I. Mironescu** deoarece este menționat ca învățător în Tocilescu.
-- Următorul pas este catalog / bibliotecă: Biblioteca Academiei, Biblioteca Națională, bibliotecă județeană Vrancea / Focșani sau citări secundare despre reforma Haret în județul Putna.
+- Nu a fost găsit online volumul **N. N. Săveanu, Școli rurale din județul Putna**.
+- Pista rămâne relevantă pentru context școlar și pentru posibilul cadru al lui **Em. I. Mironescu**, dar nu este rezolvabilă prin web indexat.
+- Următorul pas, dacă se revine la ea, este catalog / bibliotecă: Biblioteca Academiei, Biblioteca Națională, bibliotecă județeană Vrancea / Focșani sau citări secundare despre reforma Haret în județul Putna.
+- Pentru verificări online practice, articolul **Mariana Corina Duca — Spiru Haret și reformarea învățământului vrâncean** rămâne alternativa utilă, deoarece dă dosare și file.
 
 ### Liste electorale / Monitorul Oficial
 
@@ -105,7 +114,7 @@ Motiv:
 
 ### Veterani / împroprietăriri
 
-Status: **verificat; negativ pentru numele urmărite**.
+Status: **complet; negativ pentru numele urmărite**.
 
 Sursă:
 
@@ -124,10 +133,11 @@ Verificare cercetător:
 
 - Lista consultată nu conține numele urmărite în primul exercițiu.
 - Apar mai multe persoane cu numele **Vasile** în **Călieni**, dar nu există momentan legătură imediată dovedită cu Vulturu sau cu linia urmărită.
+- Pista este considerată completă pentru scopul actual.
 
 Concluzie:
 
-- Pentru primul exercițiu nominal, pista veteranilor este momentan negativă.
+- Pentru primul exercițiu nominal, pista veteranilor este negativă.
 - Poate rămâne utilă doar pentru context social sau pentru piste laterale viitoare.
 
 ### Rechiziții 1916–1918
