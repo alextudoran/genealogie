@@ -22,6 +22,10 @@
 
 - [Catagrafie — Mire Lacanul, Vulturu, 1820](../documents/census/mire-lacanul-catagrafie-1820.md)
 
+## Inventare arhivistice
+
+- [Reforma Agrară 1864 — moșia statului Vulturul de Sus, Putna, inventar 629](../documents/archival-inventories/reforma-agrara-1864-vulturul-de-sus-putna-inv-629.md)
+
 ## Surse tipărite / folclor / istorie locală
 
 - [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
