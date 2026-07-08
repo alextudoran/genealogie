@@ -71,6 +71,7 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 ## Documente relevante
 
 - [VN-F-00021-3-1908-153](../../archive-references/vn-f-00021-3-1908-153.md)
+- [Reforma Agrară 1864 — moșia statului Vulturul de Sus, Putna, inventar 629](../../documents/archival-inventories/reforma-agrara-1864-vulturul-de-sus-putna-inv-629.md)
 - [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
 - [Iliescu / Miron — veterani din Vulturu, împroprietărire în Dobrogea, 1903–1908](../../documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md)
 - [Mariana Corina Duca — Spiru Haret și reformarea învățământului vrâncean, Vulturu / Putna, 1897–1910](../../documents/printed/duca-spiru-haret-invatamant-vulturu-putna-1897-1910.md)
@@ -91,3 +92,4 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 - Cine erau primarul, învățătorul / dirigintele și eventualii semnatari locali din dosarele școlare pentru Vulturul / Vadu Roșca, 1897–1910?
 - Cine apar în tabelul celor 161 de orfani de război din Vulturu, dosar Prefectura Județului Putna nr. 13/1918?
 - Care era legenda etiologică / etimologică pentru comuna Vulturu prezentată de Constantin I. Lupu?
+- Ce nume apar în dosarul de delimitare / împroprietărire pentru moșia statului **Vulturul de Sus**, 1864–1865?
