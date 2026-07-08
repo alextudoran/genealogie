@@ -12,6 +12,13 @@
 - Interval documentar util: **1917–1924**, cu mențiuni relevante pentru **1918–1920**
 - Status: sursă foarte promițătoare pentru listă nominală locală; trebuie verificat dosarul de arhivă, nu doar OCR-ul articolului
 
+## Status cerere arhivă
+
+- Cerere transmisă către **S.J.A.N. Vrancea** pentru reproducere digitală / deviz, nu pentru consultare în sala de studiu.
+- File cerute direct: **fond Prefectura Județului Putna, dosar nr. 13/1918, f. 1 și f. 9**.
+- Pentru intervalul **f. 15–36**, s-a cerut identificarea filelor care conțin strict comuna **Vulturu**, dacă acest lucru este posibil; alternativ, cost estimativ pentru reproducerea întregului interval.
+- Status: **așteptare răspuns**.
+
 ## De ce este importantă
 
 Articolul indică existența unor tabele nominale cu orfani de război, inclusiv pentru comuna **Vulturu**. Spre deosebire de multe alte surse contextuale, aceste tabele pot conține informații direct genealogice:
