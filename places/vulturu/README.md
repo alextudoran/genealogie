@@ -17,6 +17,7 @@
 - **Vulturu de Sus** / **Vulturul de Sus** / **Vulturul-de-Sus** — fostă componentă / formulă administrativă.
 - **Vulturul Nou** / **Sloboziea Vulturul Nou** — formulă istorică de urmărit în catagrafii / recensăminte vechi.
 - **Biliești** / **Biliesci** — plasa relevantă pentru localizarea Vulturului în surse din secolul al XIX-lea.
+- **Vultur** — formă folosită în articolul despre cercurile culturale ale învățătorilor, unde Cercul VIII avea sediul în comuna Vultur.
 
 ### Variante de căutare de testat / neconfirmate încă în documentele salvate
 
@@ -32,7 +33,7 @@ Notă: variantele cu `H` sunt păstrate ca ipoteze de căutare / OCR / translite
 ### Componente sau localități foarte apropiate
 
 - **Boțârlău** / **Botârlău** / **Botîrlău** — sat asociat cu Vulturu; apare în documente civile ca domiciliu / loc de legătură pentru ramuri locale.
-- **Vadu Roșca** / **Vadul Roșca** / **Vadul-Roșca** / **Vadu-Roșu** — localitate / formulă apropiată; apare în contextul Vulturu, hărți și istorie locală.
+- **Vadu Roșca** / **Vadul Roșca** / **Vadul-Roșca** / **Vadu-Roșu** — localitate / formulă apropiată; apare în contextul Vulturu, hărți, istorie locală și construcțiile școlare din 1908–1910.
 - **Maluri** / **Malurile** / **Marlurile** / **Sloboziea Nouă Malurile** — localitate apropiată și relevantă pentru acte civile / conexiuni familiale.
 - **Hângulești** / **Hîngulești** — localitate devenită relevantă pentru ramuri Lăcanu și pentru registrele civile conexe.
 - **Gulianca** — localitate / zonă urmărită în clusterul Hângulești / Gulianca / Măicănești.
@@ -72,6 +73,7 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 - [VN-F-00021-3-1908-153](../../archive-references/vn-f-00021-3-1908-153.md)
 - [Materialuri folkloristice — I. N. Miron, Vulturul, pe la 1860](../../documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md)
 - [Iliescu / Miron — veterani din Vulturu, împroprietărire în Dobrogea, 1903–1908](../../documents/printed/iliescu-miron-veterani-vulturu-putna-1903-1908.md)
+- [Mariana Corina Duca — Spiru Haret și reformarea învățământului vrâncean, Vulturu / Putna, 1897–1910](../../documents/printed/duca-spiru-haret-invatamant-vulturu-putna-1897-1910.md)
 - [Vulturu — surse nominale țintite](../../research/targets/vulturu-nominal-sources.md)
 
 ## Întrebări deschise
@@ -84,3 +86,4 @@ Localitate centrală pentru cercetarea familiei **Lăcanu** și a contextului ru
 - Cum se corelează Vulturu de Jos / Vulturu de Sus cu familiile urmărite în registrele civile?
 - Ce localități trebuie tratate ca parte a cercului imediat de căutare pentru căsătorii, nașteri, decese și martori?
 - Care este lista completă a celor 28 de veterani din Vulturu menționați în dosarul Prefecturii Putna din 1903?
+- Cine erau primarul, învățătorul / dirigintele și eventualii semnatari locali din dosarele școlare pentru Vulturul / Vadu Roșca, 1897–1910?
