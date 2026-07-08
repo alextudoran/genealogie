@@ -17,15 +17,16 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 | Prioritate | Sursă / tip document | Interval | Unde poate apărea | Ce se caută | Status |
 |---:|---|---|---|---|---|
 | 1 | Registre civile Vulturu, Hângulești, Maluri, Măicănești, Suraia | 1890–1920 | Arhive Naționale / scanuri locale / copii cercetător | părinți, martori, nași, domicilii, formule patronimice | în lucru |
-| 2 | Liste electorale / alegători comunali / județeni | 1866–1918 | Monitorul Oficial, Buletine județene, fonduri prefectură | bărbați majori, proprietari, contribuabili | web negativ; de reluat manual pe fascicule / arhivă |
-| 3 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | prioritate scăzută / sărită pentru moment |
-| 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | N. N. Săveanu negăsit online; Duca/Haret folosit ca alternativă cu cote de arhivă |
-| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | complet; negativ pentru numele urmărite |
-| 6 | Reforma agrară 1864 / tabele clăcași / împroprietăriți | 1864–1870 | fond Prefectura Putna / lucrări istorice | capi de gospodărie, clăcași, pământ primit | de căutat manual |
+| 2 | Reforma agrară 1864 / moșia statului Vulturul de Sus | 1864–1865 | Arhivele Naționale, **Reforma Agrară 1864. Inv. 629** | clăcași, categorii, despăgubiri, delimitarea moșiei | sursă arhivistică identificată; prioritate foarte mare |
+| 3 | Orfani de război Vulturu | 1917–1919 | Prefectura Județului Putna, dosar 13/1918 | copii, părinți, gazde, case, situație materială | sursă secundară găsită; dosar/filii exacte |
+| 4 | Liste electorale / alegători comunali / județeni | 1866–1918 | Monitorul Oficial, Buletine județene, fonduri prefectură | bărbați majori, proprietari, contribuabili | web negativ; de reluat manual pe fascicule / arhivă |
+| 5 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | N. N. Săveanu negăsit online; Duca/Haret folosit ca alternativă cu cote de arhivă |
+| 6 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | complet; negativ pentru numele urmărite |
 | 7 | Răscoala din 1907 / anchete / procese / despăgubiri | 1907–1908 | fonduri judiciare, prefectură, presă | răsculați, martori, proprietari, arendași | de căutat manual |
 | 8 | Rechiziții și contribuții de război | 1916–1918 | fond prefectură / armata / articole locale | deținători de vite, care, trăsuri, bunuri | web negativ; de reluat manual / arhivă |
 | 9 | Parohii, biserici, pomelnice, epitropii | 1800–1918 | arhivă parohială / episcopie / monografii | preoți, ctitori, epitropi, donatori, decedați | de căutat manual |
 | 10 | Anuare post-1918 ca index pentru generația veche | 1920–1930 | Anuarul Socec, anuare administrative | adulți formați înainte de 1918 | auxiliar |
+| 11 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | prioritate scăzută / sărită pentru moment |
 
 ## Prioritatea 2 — surse de context cu potențial nominal redus
 
@@ -46,6 +47,29 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 5. Variantele grafice se păstrează în forma originală din sursă, apoi se notează forma normalizată separat.
 
 ## Sarcini deschise concrete
+
+### Reforma agrară 1864 / moșia statului Vulturul de Sus
+
+Status: **sursă arhivistică identificată; prioritate foarte mare**.
+
+Sursă:
+
+- **Arhivele Naționale ale României**, inventar PDF: **Reforma Agrară 1864. Inv. 629**.
+- URL: https://arhivelenationale.ro/site/download/inventare/Reforma-Agrara-1864.-Inv.-629.pdf
+- Fișă internă: `documents/archival-inventories/reforma-agrara-1864-vulturul-de-sus-putna-inv-629.md`.
+
+Descriere identificată de cercetător:
+
+- **Acte privind delimitarea moșiei statului Vulturul de Sus**, jud. Putna, în vederea împroprietăririi clăcașilor conform legii rurale din **1864**.
+- Include **tabele de numărul clăcașilor, categoria lor și suma de despăgubire cuvenită proprietarului**.
+- Interval: **1864–1865**.
+
+Concluzie:
+
+- Este una dintre cele mai importante piste pentru împingerea cercetării înainte de registrele civile de la 1900.
+- Trebuie verificat dacă tabelele sunt nominale sau doar statistice.
+- Dacă sunt nominale, pot apărea capi de gospodărie din Vulturul de Sus.
+- De verificat prioritar pentru **Lăcanu / Lacanu / Lacanul**, **Mocăniță**, **Vasile**, **Miron**, **Leoca**.
 
 ### Tocilescu / Materialuri folkloristice
 
