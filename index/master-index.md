@@ -29,6 +29,10 @@ Acest fișier este punctul principal de intrare în cercetare.
 - [Index documente](document-index.md)
 - [Index cote arhivistice](archive-index.md)
 
+## Ținte de cercetare
+
+- [Vulturu — surse nominale țintite](../research/targets/vulturu-nominal-sources.md)
+
 ## Ipoteze active
 
 - [Index ipoteze](hypothesis-index.md)
