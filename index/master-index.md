@@ -43,4 +43,5 @@ Acest fișier este punctul principal de intrare în cercetare.
 ## Jurnal de cercetare
 
 - [Jurnal 2026-06](../research-log/2026-06.md)
+- [Jurnal 2026-07](../research-log/2026-07.md)
 - [Întrebări deschise](../research-log/open-questions.md)
