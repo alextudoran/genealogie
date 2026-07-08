@@ -14,6 +14,15 @@ Această legătură este **ipoteză de lucru**, nu fapt confirmat. În prezent, 
 
 Nu conectăm automat familia Miron din documentul din 1898 cu linia maternă a cercetătorului. Legătura trebuie confirmată prin acte de stare civilă, documente bisericești, martori recurenți, vecinătăți, proprietăți sau alte surse independente.
 
+## Regulă de includere — Miron / Mironescu
+
+Pentru că sursa folcloristică din jurul anului 1860 leagă explicit forma **Mironescu** de tatăl **I. N. Miron**, cercetarea pentru această familie include de acum înainte ambele forme:
+
+- **Miron**
+- **Mironescu**
+
+Regula este doar de căutare și grupare provizorie. Forma **Mironescu** nu se normalizează automat ca **Miron** și nu se conectează genealogic fără dovezi independente.
+
 ## Apariții documentate
 
 ### ca. 1860 — sursă folcloristică, Vulturul
@@ -91,7 +100,7 @@ Rodu Miron [?] + Nița Miron
 ## Variante și incertitudini nominale
 
 - **Miron** — nume de familie de interes; apare repetat în documente din Vulturu.
-- **Mironescu** — formă asociată lui **Em. I. Mironescu**, fiul lui **I. N. Miron**; nu se normalizează automat ca Miron.
+- **Mironescu** — formă asociată lui **Em. I. Mironescu**, fiul lui **I. N. Miron**; inclusă în aria de căutare Miron, dar nu normalizată automat ca Miron.
 - **Mihalea / Mihăilă / Mihalcea [?]** — lectură incertă; nu se normalizează încă.
 - **Maria / Mara [?]** — lectura prenumelui mamei soțului din actul 1898 trebuie verificată.
 - **Botârlău / Botîrlău [?]** — satul de domiciliu al soțului din 1898; forma exactă trebuie verificată în registru sau în alte documente locale.
@@ -108,7 +117,7 @@ Rodu Miron [?] + Nița Miron
 - Care era numele de familie al străbunicii din partea bunicii materne?
 - Există acte de naștere/căsătorie/deces care leagă această linie de familia Miron din Vulturu?
 - Gheorghe Miron din 1898 aparține aceleiași ramuri ca familia de interes sau este doar o apariție nominală locală?
-- Ce alte apariții Miron există în registrele civile din Vulturu, Suraia sau satele apropiate între 1850 și 1920?
+- Ce alte apariții Miron / Mironescu există în registrele civile din Vulturu, Suraia sau satele apropiate între 1850 și 1920?
 - Există vreo legătură documentabilă între clusterul Miron din 1898 și clusterul Miron din 1902?
 - Ce reprezintă inițialele **R. I.** din numele lui Isofache R. I. Miron?
 - Cine a fost **I. N. Miron** și poate fi identificat în alte surse independente?
