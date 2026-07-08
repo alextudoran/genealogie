@@ -19,7 +19,7 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 | 1 | Registre civile Vulturu, Hângulești, Maluri, Măicănești, Suraia | 1890–1920 | Arhive Naționale / scanuri locale / copii cercetător | părinți, martori, nași, domicilii, formule patronimice | în lucru |
 | 2 | Liste electorale / alegători comunali / județeni | 1866–1918 | Monitorul Oficial, Buletine județene, fonduri prefectură | bărbați majori, proprietari, contribuabili | de căutat manual |
 | 3 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | de căutat manual |
-| 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | de căutat manual |
+| 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | web negativ; de reluat bibliografic |
 | 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1905 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | de căutat manual |
 | 6 | Reforma agrară 1864 / tabele clăcași / împroprietăriți | 1864–1870 | fond Prefectura Putna / lucrări istorice | capi de gospodărie, clăcași, pământ primit | de căutat manual |
 | 7 | Răscoala din 1907 / anchete / procese / despăgubiri | 1907–1908 | fonduri judiciare, prefectură, presă | răsculați, martori, proprietari, arendași | de căutat manual |
@@ -53,14 +53,26 @@ Status: **mențiune confirmată textual de cercetător; pagina exactă rămâne 
 - Mențiunea exactă apare în secțiunea **Adenda la Cântecele bătrânești, haiducești, la doine și strigături**, piesa **Badiu — Varianta**.
 - Formula verificată: **Em. I. Mironescu**, învățător din **Oncea — Covurlui**, a auzit varianta de la tatăl său **I. N. Miron**, pe la **1860**, în comuna **Vulturul**, plasa **Biliesci**, județul **Putna**.
 - Cercetătorul a verificat că **Mironescu** mai apare ca informator / colector în alte sate, dar fără alte referințe directe la **Miron** sau **Vulturul**.
-- De completat: pagina PDF și pagina tipărită, dacă diferă.
+- De completat: pagina PDF; pagina tipărită nu este vizibilă în screenshot-ul verificat.
 - Fișă actualizată: `documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md`.
 
 ### Școli rurale Putna
 
-- Găsește scanul sau referința completă pentru N. N. Săveanu, `Școli rurale din județul Putna`.
-- Caută Vulturul, Vulturu, Vadu Roșca, Botârlău, Maluri, Hângulești.
-- Caută Miron / Mironescu în secțiunile despre învățători.
+Status: **căutare web indexată negativă; de reluat bibliografic / arhivistic**.
+
+Au fost căutate, fără rezultat util, formulele:
+
+- `N. N. Săveanu / N. N. Saveanu`
+- `Școli rurale din județul Putna / Scoli rurale din judetul Putna / Scoale rurale din judetul Putna`
+- `Spiru Haret + Putna + Vulturul / Vadu Roșca`
+- `Vulturul, Vulturu, Vadu Roșca, Botârlău, Maluri, Hângulești, Miron, Mironescu`
+
+Concluzie:
+
+- Nu a fost găsit scan public.
+- Nu a fost găsită potrivire indexată utilă.
+- Pista rămâne relevantă pentru **Em. I. Mironescu** deoarece este menționat ca învățător în Tocilescu.
+- Următorul pas este catalog / bibliotecă: Biblioteca Academiei, Biblioteca Națională, bibliotecă județeană Vrancea / Focșani sau citări secundare despre reforma Haret în județul Putna.
 
 ### Liste electorale / Monitorul Oficial
 
