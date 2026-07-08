@@ -96,6 +96,17 @@ De verificat în dosar / microfilm / scan, dacă devine accesibil:
 - ramurile Lăcanu documentate în registrele civile de la 1900;
 - posibile gospodării Lăcanu / Mocăniță / Vasile existente înainte de generația actelor civile.
 
+## Preferință operațională pentru cerere
+
+Cercetătorul nu intenționează să consulte fizic documentele la ghișeu / sală de studiu. Preferința este pentru:
+
+- cerere transmisă prin email către Serviciul Relații cu Publicul;
+- răspuns scris cu cota completă și condițiile de reproducere;
+- comunicarea costurilor și a procedurii de plată;
+- livrarea copiilor digitale prin email, link de descărcare sau alt canal electronic indicat de Arhivele Naționale.
+
+Cererea trebuie formulată explicit ca solicitare de **reproducere digitală la distanță**, nu ca programare pentru consultare fizică.
+
 ## Ce trebuie cerut / verificat efectiv
 
 Pentru o cerere la arhivă, nu trebuie cerut „inventarul”, ci unitatea arhivistică descrisă în inventar pentru:
