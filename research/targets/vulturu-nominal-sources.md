@@ -20,10 +20,10 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 | 2 | Liste electorale / alegători comunali / județeni | 1866–1918 | Monitorul Oficial, Buletine județene, fonduri prefectură | bărbați majori, proprietari, contribuabili | web negativ; de reluat manual pe fascicule / arhivă |
 | 3 | Camera de Comerț / comercianți / industriași | 1890–1918 | Monitorul Oficial, anuare comerciale | cârciumari, băcani, morari, meseriași | prioritate scăzută / sărită pentru moment |
 | 4 | Școli rurale / revizorat școlar Putna | 1864–1918 | lucrări despre școli, anuare, fonduri școlare | învățători, epitropi, comitete școlare, eventual părinți | web negativ; de reluat bibliografic |
-| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | sursă secundară găsită; dosar 14/1903 de verificat |
+| 5 | Veterani 1877–1878 / împroprietăriri în Dobrogea | 1900–1908 | fond Prefectura Putna / tabele de veterani | veterani din Vulturu, stare materială, cereri | verificat; negativ pentru numele urmărite |
 | 6 | Reforma agrară 1864 / tabele clăcași / împroprietăriți | 1864–1870 | fond Prefectura Putna / lucrări istorice | capi de gospodărie, clăcași, pământ primit | de căutat manual |
 | 7 | Răscoala din 1907 / anchete / procese / despăgubiri | 1907–1908 | fonduri judiciare, prefectură, presă | răsculați, martori, proprietari, arendași | de căutat manual |
-| 8 | Rechiziții și contribuții de război | 1916–1918 | fond prefectură / armata / articole locale | deținători de vite, care, trăsuri, bunuri | de căutat manual |
+| 8 | Rechiziții și contribuții de război | 1916–1918 | fond prefectură / armata / articole locale | deținători de vite, care, trăsuri, bunuri | web negativ; de reluat manual / arhivă |
 | 9 | Parohii, biserici, pomelnice, epitropii | 1800–1918 | arhivă parohială / episcopie / monografii | preoți, ctitori, epitropi, donatori, decedați | de căutat manual |
 | 10 | Anuare post-1918 ca index pentru generația veche | 1920–1930 | Anuarul Socec, anuare administrative | adulți formați înainte de 1918 | auxiliar |
 
@@ -104,9 +104,9 @@ Motiv:
 
 ### Veterani / împroprietăriri
 
-Status: **sursă secundară găsită; sursă arhivistică promițătoare identificată**.
+Status: **verificat; negativ pentru numele urmărite**.
 
-Sursă găsită:
+Sursă:
 
 - Ionuț Iliescu, Gheorghe Miron, **Aspecte privind împroprietărirea în Dobrogea a veteranilor din Războiul de Independență (1877–1878). Studiu de caz pentru județul Putna**, *Cronica Vrancei*, XVII, 2013.
 - PDF: https://biblioteca-digitala.ro/reviste/Cronica-Vrancei/17-Cronica-Vrancei-XVII-2013-03.pdf
@@ -118,15 +118,33 @@ Date utile:
 - Trimitere arhivistică pentru cei 28: **S.J.A.N. Vrancea, fond Prefectura Județului Putna, dosar nr. 14/1903, f. 42–42 verso**.
 - Trimitere pentru primăvara 1904: **același dosar, f. 80**.
 - Articolul mai menționează doi veterani din Vulturu în 1908: **Negoiță Costache** și **Nedelcu Grigore**, împroprietăriți în comuna **Nalbanț**, județul **Tulcea**, apoi întorși în Vulturu.
-- În tabelul final apare cel puțin o intrare asociată cu **Vulturu**, dar lectura OCR a numelui este incertă: `Niu / Nicu [?] Dimoție / Dimoftie [?] Stan`.
+
+Verificare cercetător:
+
+- Lista consultată nu conține numele urmărite în primul exercițiu.
+- Apar mai multe persoane cu numele **Vasile** în **Călieni**, dar nu există momentan legătură imediată dovedită cu Vulturu sau cu linia urmărită.
 
 Concluzie:
 
-- Pista veteranilor este relevantă și mai promițătoare decât listele electorale indexate web.
-- Lista completă a celor 28 de veterani nu este publicată clar în articol; trebuie verificat **dosarul 14/1903, f. 42–42 verso**.
-- Pentru numele urmărite (**Lăcanu, Mocăniță, Vasile, Miron/Mironescu, Leoca**) nu există încă o potrivire clară în articolul publicat.
+- Pentru primul exercițiu nominal, pista veteranilor este momentan negativă.
+- Poate rămâne utilă doar pentru context social sau pentru piste laterale viitoare.
 
 ### Rechiziții 1916–1918
 
-- Verifică articolele / fondurile despre contribuțiile comunelor din județul Putna la efortul de război.
-- Caută tabele nominale pentru Vulturu, dacă există.
+Status: **căutare web indexată negativă; de reluat manual / arhivă**.
+
+Au fost căutate, fără rezultat util, formulele:
+
+- `Vulturu / Vulturul + rechiziții / rechizitii + 1916 / 1918 / Putna`
+- `comuna Vulturu + Regimentul 16 Artilerie`
+- `comuna Vulturu + Batalionul 3 Pionieri`
+- `Vulturu + o motocicletă / o trăsură / 90 de care / șase biciclete`
+- `județul Putna + rechiziții + Primul Război Mondial`
+- `biblioteca-digitala.ro + Vulturu + rechiziții / ocupație / ocupanți / 1916–1918`
+
+Concluzie:
+
+- Nu a fost găsită o sursă online indexată cu tabel nominal pentru Vulturu.
+- Nu a fost confirmată online o listă nominală de deținători de bunuri rechiziționate.
+- Pista rămâne posibilă doar prin fonduri de prefectură, dosare militare, primărie sau articole locale neindexate.
+- Pentru primul exercițiu nominal, pista este momentan negativă.
