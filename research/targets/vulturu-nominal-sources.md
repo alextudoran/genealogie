@@ -48,9 +48,13 @@ Listă de documente / serii care pot conține nume de persoane pentru Vulturu / 
 
 ### Tocilescu / Materialuri folkloristice
 
-- Identifică pagina exactă unde apar **I. N. Miron**, **Em. I. Mironescu**, **Vulturul**, **Biliești**, **Oancea-Covurlui**.
-- Salvează pagina PDF și pagina tipărită, dacă diferă.
-- Adaugă citatul scurt sau parafraza exactă în `documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md`.
+Status: **mențiune confirmată textual de cercetător; pagina exactă rămâne de completat**.
+
+- Mențiunea exactă apare în secțiunea **Adenda la Cântecele bătrânești, haiducești, la doine și strigături**, piesa **Badiu — Varianta**.
+- Formula verificată: **Em. I. Mironescu**, învățător din **Oncea — Covurlui**, a auzit varianta de la tatăl său **I. N. Miron**, pe la **1860**, în comuna **Vulturul**, plasa **Biliesci**, județul **Putna**.
+- Cercetătorul a verificat că **Mironescu** mai apare ca informator / colector în alte sate, dar fără alte referințe directe la **Miron** sau **Vulturul**.
+- De completat: pagina PDF și pagina tipărită, dacă diferă.
+- Fișă actualizată: `documents/printed/materialuri-folkloristice-i-n-miron-1860-vulturu.md`.
 
 ### Școli rurale Putna
 
