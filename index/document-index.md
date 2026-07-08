@@ -40,7 +40,8 @@
 - [VN-F-00021-3-1906-91](../archive-references/vn-f-00021-3-1906-91.md)
 - [VN-F-00021-3-1908-153](../archive-references/vn-f-00021-3-1908-153.md)
 - [BR-F-00013-2-1919-241](../archive-references/br-f-00013-2-1919-241.md)
-- [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1921-56.md)
+- [BR-F-00013-2-1920-123](../archive-references/br-f-00013-2-1920-123.md)
+- [BR-F-00013-2-1921-56](../archive-references/br-f-00013-2-1921-56.md)
 
 ## Fotografii și imagini
 
